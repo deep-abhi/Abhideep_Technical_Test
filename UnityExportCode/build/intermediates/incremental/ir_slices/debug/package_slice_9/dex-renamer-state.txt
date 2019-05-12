@@ -1,0 +1,4 @@
+#Sun May 12 19:56:03 IST 2019
+base.0=D\:\\unity project\\sampleTest\\SampleTest1\\sampleTest\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex

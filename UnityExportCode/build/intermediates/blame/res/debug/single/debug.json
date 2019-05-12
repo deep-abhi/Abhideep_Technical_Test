@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\unity project\\sampleTest\\SampleTest1\\sampleTest\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "D:\\unity project\\sampleTest\\SampleTest1\\sampleTest\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\unity project\\sampleTest\\SampleTest1\\sampleTest\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_app_banner.png.flat",
+        "source": "D:\\unity project\\sampleTest\\SampleTest1\\sampleTest\\src\\main\\res\\drawable-xhdpi\\app_banner.png"
+    }
+]
